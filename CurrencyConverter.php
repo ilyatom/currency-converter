@@ -1,6 +1,10 @@
 <?php
 
 class CurrencyConverter {
+    
+    /*
+     * Класс для конвертации валют
+     */
 
 // PROPERTIES
 
